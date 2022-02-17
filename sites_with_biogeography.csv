@@ -1,0 +1,138 @@
+,ICPF.Nr,Plot,PlotID,LeadPostdoc,sample_date,Plot.Name.Number,code_country,code_plot,Country,Region,code_altitude,plot_size,mean_age,tree_species,mix_descr,mix_stringent,mix,biogeog,latitude,longitude
+1,1_6,CHP59,OAK_PLOT3,Laura,08/06/2011,,1,6,France,,3,0.5,61 - 80,OAK,"AG, CB, FS, PA, SR, FE, AP",1,1,Atlantic,50.17111111,3.754444444
+2,1_16,CHS35,OAK_PLOT4,Laura,27/06/2011,,1,16,France,,2,0.49,81 - 100,OAK,"CS, CB, FS",1,1,Atlantic,48.17805556,-1.533611111
+3,1_17,CHS41,OAK_PLOT5,Laura,07/06/2011,,1,17,France,,3,0.48,81 - 100,OAK,"FS, CB, ST",1,1,Atlantic,47.56916667,1.26
+4,1_30,CPS77,OAK_PLOT6,Laura,10/06/2011,,1,30,France,,2,0.49,81 - 100,OAK,"CB, FS, PA",1,1,Atlantic,48.45388889,2.717222222
+5,1_37,SV29S,SPRUCE_PLOT29,Sietse,10/07/2015,Thilay,1,37,France,,10,0.52,21 - 40,SPRUCE,one Scots Pine tree,1,0,Continental,49.9475,4.809722222
+6,1_41,SV04S,SPRUCE_PLOT4,Sietse,22/10/2013,EPC 63,1,41,France ,Saint-Genes-Champanelle,19,0.51,21 - 40,SPRUCE,a few Birch trees scattered around,1,0,Continental,45.75555556,2.966111111
+7,1_46,SV03S,SPRUCE_PLOT3,Sietse,23/10/2013,EPC 87,1,46,France ,Peyrat-Le-Chateau,13,0.5,21 - 40,SPRUCE,a few Larch trees,1,0,Continental,45.8,1.815277778
+8,1_57,SV01B,BEECH_PLOT1,Sietse,24/10/2013,HET 30,1,57,France ,Valleraugue,28,0.49,81 - 100,BEECH,no,0,0,Mediterranean,44.11527778,3.543333333
+9,1_63,SV16B,BEECH_PLOT16,Sietse,15/08/2014,Ance (HET 64),1,63,France,Pyrinee Atlantique,8,0.51,41 - 60,BEECH,a few Oak trees,1,0,Atlantic,43.15027778,-0.658055556
+10,1_78,SV21P,PINE_PLOT21,Sietse,23/07/2015,Liffre,1,78,France,,2,0.48,21 - 40,PINE,mainly Pine and Oak and quite some Beech and Birch as wel,1,1,Atlantic,48.20111111,-1.554722222
+11,1_80,SV22P,PINE_PLOT22,Sietse,24/07/2015,Le Gaffre,1,80,France,,1,0.48,41 - 60,PINE,mainly Pine and Sweet Chestnut and quite some Birch a d Oak as well,1,1,Atlantic,47.54,-1.801388889
+12,1_84,SV19P,PINE_PLOT19,Sietse,09/07/2015,Hagenue,1,84,France,,4,0.51,61 - 80,PINE,Pine and Beech in almost equal numbers and a few Oak,1,1,Continental,48.85027778,7.710833333
+13,1_86,SV20P,PINE_PLOT20,Sietse,22/07/2015,La Mailleraye-sur-Seine,1,86,France,,2,0.49,41 - 60,PINE,Beech and a few Oak,1,1,Atlantic,49.45388889,0.748055556
+14,2_1,SV09S,SPRUCE_PLOT9,Sietse,29/04/2014,Willerzie,2,1,Belgium,Walone,10,0.5,41 - 60,SPRUCE,no,0,0,Continental,49.95777778,4.832777778
+15,2_9,SV10B,BEECH_PLOT10,Sietse,28/04/2014,Louvain-la-Neuve,2,9,Belgium,Walone,3,0.5,101 - 120,BEECH,some oak,1,1,Atlantic,50.68111111,4.601111111
+16,2_11,SV02B,BEECH_PLOT2,Sietse,20/02/2014,Wijnendale,2,11,Belgium,Flanders,1,0.25,NA,BEECH,a few other tree species like Larch and Birch,1,1,Atlantic,51.06972222,3.037222222
+17,2_15,SV06P,PINE_PLOT6,Sietse,21/02/2014,Brasschaat,2,15,Belgium,Flanders,1,0.25,NA,PINE,,1,1,Atlantic,51.30777778,4.519722222
+18,2_16,16,OAK_PLOT7,Laura,03/11/2010,,2,16,Belgium,Flanders,1,0.25,NA,OAK,"FS, PN, PM, AP, PS, CA, SA, LD, CS, BPB",1,1,Atlantic,50.97527778,3.804166667
+19,2_21,SV04B,BEECH_PLOT4,Sietse,21/02/2014,Zoni???n,2,21,Belgium,Flanders,3,0.25,NA,BEECH,,0,0,Atlantic,50.74583333,4.413055556
+20,3_175,SV02P,PINE_PLOT2,Sietse,18/09/2013,Leende,3,175,Netherlands,Noord-Brabant,1,0.25,41 - 60,PINE,a fair amount of understorey trees (species).,1,1,Atlantic,51.32194444,5.517777778
+21,3_1040,1040,OAK_PLOT8,Laura,23/11/2011,,3,1040,Netherlands,,1,0.26,61 - 80,OAK,"FS, PS;PA, PS, SR, QR, BP, SA",1,1,Atlantic,52.10888889,5.230555556
+22,3_2085,SV05P,PINE_PLOT5,Sietse,02/01/2014,Dwingeloo,3,2085,Netherlands,Drenthe,1,0.27,41 - 60,PINE,a fair amount of understorey trees (species).,1,1,Atlantic,52.83888889,6.445833333
+23,4_101,SV25B,BEECH_PLOT25,Sietse,14/11/2014,Bornhoeved,4,101,Germany,North West Germany,1,1,NA,BEECH,"some Oak scattered around, the woods surrounding the plot consist of mainly Beech",1,0,Continental,54.10027778,10.2425
+24,4_301,SV24B,BEECH_PLOT24,Sietse,13/11/2014,Luess,4,301,Germany,North West Germany,3,0.77,NA,BEECH,some Oak scattered around. The surrounding forest also mainly contains of Beech,1,0,Atlantic,52.83944444,10.26638889
+25,4_302,SV22S,SPRUCE_PLOT22,Sietse,16/10/2014,"Lange Bramke, Kamm",4,302,Germany,North West Germany,12,1,NA,SPRUCE,,0,0,Continental,51.85638889,10.41305556
+26,4_304,SV22B,BEECH_PLOT22,Sietse,16/10/2014,Solling (Beech),4,304,Germany,North West Germany,11,1,NA,BEECH,quite a few smaller understory Beech and some Spuce,1,1,Continental,51.76138889,9.578055556
+27,4_305,SV21S,SPRUCE_PLOT21,Sietse,16/10/2014,Solling (Spruce),4,305,Germany,North West Germany,11,1,NA,SPRUCE,quite a few smaller understory spruce,0,0,Continental,51.76472222,9.579722222
+28,4_306,SV29B,BEECH_PLOT29,Sietse,21/04/2015,G???ttingen,4,306,Germany,North West Germany,9,2,NA,BEECH,,0,0,Continental,51.52833333,10.04666667
+29,4_307,307,PINE_PLOT37,Filipa,12/11/2008,,4,307,Germany,North West Germany,1,1,NA,PINE,group wise mixture,1,1,Atlantic,52.90777778,7.859166667
+30,4_501,501,PINE_PLOT38,Filipa,13/11/2008,,4,501,Germany,North Rhine West-Phalia,1,0.25,61 - 80,PINE,one small Birch,0,0,Atlantic,51.75972222,6.061944444
+31,4_502,502,OAK_PLOT10,Laura,22/11/2011,,4,502,Germany,North Rhine West-Phalia,1,0.75,101 - 120,OAK,FS,1,1,Atlantic,51.73,6.1725
+32,4_503,SV27B,BEECH_PLOT27,Sietse,06/01/2015,Haard (Recklinghausen),4,503,Germany,North Rhine West-Phalia,2,0.88,101 - 120,BEECH,some young Pine trees in one corner the plot but not in the area where we collected soil samples,1,0,Atlantic,51.68638889,7.260555556
+33,4_507,SV35B,BEECH_PLOT35,Sietse,09/07/2015,Monschau,4,507,Germany,North Rhine West-Phalia,9,0.45,> 120,BEECH,quite a few Birch and Pine trees,1,1,Continental,50.67083333,6.251388889
+34,4_606,SV21B,BEECH_PLOT21,Sietse,15/10/2014,Zierenberg,4,606,Germany,North West Germany,9,1.28,NA,BEECH,,0,0,Continental,51.37111111,9.267777778
+35,4_608,SV20B,BEECH_PLOT20,Sietse,15/10/2014,Kellerwald,4,608,Germany,North West Germany,10,1,NA,BEECH,some other broad leaved trees,1,0,Continental,51.15777778,9.030555556
+36,4_701,SV01S,SPRUCE_PLOT1,Sietse,02/10/2013,701 Hermeskeil,4,701,Germany,Rhineland-Palatinate,13,9.9,61 - 80,SPRUCE,a few smaller understory Birch but not where we sampled,1,0,Continental,49.69777778,7.027222222
+37,4_705,705,OAK_PLOT11,Laura,12/11/2010,,4,705,Germany,Rhineland-Palatinate,11,9.2,> 120,OAK,FS,1,1,Continental,49.27277778,7.8125
+38,4_706,706,OAK_PLOT12,Laura,11/11/2010,,4,706,Germany,Rhineland-Palatinate,3,9.9,81 - 100,OAK,"CB, FS, AS",1,1,Continental,49.02111111,8.130277778
+39,4_707,SV03P,PINE_PLOT3,Sietse,01/10/2013,707 Johanniskreuz,4,707,Germany,Rhineland-Palatinate,11,4,> 120,PINE,a mixed forest consisting of Scots Pine (dominant but just) and Beech,1,1,Continental,49.30583333,7.866666667
+40,4_901,901,PINE_PLOT42,Filipa,26/10/2008,,4,901,Germany,Bavaria,9,0.2621,81 - 100,PINE,pure,0,0,Continental,49.41361111,11.32166667
+41,4_905,905,PINE_PLOT43,Filipa,27/10/2008,,4,905,Germany,Bavaria,10,0.26,101 - 120,PINE,a few Picea abies trees,1,0,Continental,49.11666667,10.58888889
+42,4_906,SV19S,SPRUCE_PLOT19,Sietse,11/09/2014,Ebersberg,4,906,Germany,Bavaria,11,0.2503,61 - 80,SPRUCE,an understory of Beech,1,1,Continental,48.1225,11.91722222
+43,4_908,SV05S,SPRUCE_PLOT5,Sietse,21/11/2013,Flossenburg,4,908,Germany,Bavaria,17,0.2599,61 - 80,SPRUCE,no,0,0,Continental,49.76305556,12.39666667
+44,4_912,912,PINE_PLOT44,Filipa,24/09/2008,,4,912,Germany,Bavaria,9,0.25,61 - 80,PINE,The odd small Spruce,1,0,Continental,49.695,11.50361111
+45,4_913,913,OAK_PLOT13,Laura,14/06/2011,,4,913,Germany,Bavaria,10,0.2676,101 - 120,OAK,"BS, AP, LS",1,1,Continental,48.92916667,11.76111111
+46,4_914,914,OAK_PLOT14,Laura,16/06/2011,,4,914,Germany,Bavaria,10,0.26,81 - 100,OAK,BS,1,1,Continental,49.97694444,9.459722222
+47,4_921,921,OAK_PLOT22,Laura,15/06/2011,,4,921,Germany,Bavaria,7,0.2601,81 - 100,OAK,"CB, BS",1,1,Continental,49.73166667,9.886666667
+48,4_1001,1001,OAK_PLOT9,Laura,13/11/2010,,4,1001,Germany,Bavaria,7,0.295,NA,OAK,FS,1,1,Continental,49.32138889,7.017777778
+49,4_1102,1102,PINE_PLOT33,Filipa,23/09/2008,,4,1102,Germany,Berlin-Brandenburg,2,0.32,NA,PINE,Some large Oaks present. Dense understory of Prunus/Sorbus - not sure if form ecto's,1,1,Continental,52.47222222,13.22666667
+50,4_1201,1201,PINE_PLOT34,Filipa,08/10/2008,,4,1201,Germany,Berlin-Brandenburg,2,0.32,NA,PINE,Small Oak samplings and some tall Beech trees present,1,1,Continental,53.10111111,12.42861111
+51,4_1205,1205,PINE_PLOT35,Filipa,22/09/2008,,4,1205,Germany,Berlin-Brandenburg,3,0.32,NA,PINE,different trees,1,1,Continental,51.79833333,13.56388889
+52,4_1302,SV23B,BEECH_PLOT23,Sietse,12/11/2014,1302 - Sandhof,4,1302,Germany,Mecklenburg-Vorpommern,2,0.27,61 - 80,BEECH,some Oak ,1,1,Continental,53.67472222,12.05861111
+53,4_1303,SV11P,PINE_PLOT11,Sietse,12/11/2014,1303 - Torgelow,4,1303,Germany,Mecklenburg-Vorpommern,1,0.25,61 - 80,PINE,Some Oak and Birch,1,1,Continental,53.63916667,13.94166667
+54,4_1401,SV07S,SPRUCE_PLOT7,Sietse,22/11/2013,Klingenthal,4,1401,Germany,Saxony,17,0.3,NA,SPRUCE,,0,0,Continental,50.42805556,12.53333333
+55,4_1402,SV06S,SPRUCE_PLOT6,Sietse,21/11/2013,Olbernhau,4,1402,Germany ,Saxony,15,0.51,NA,SPRUCE,,0,0,Continental,50.63888889,13.30111111
+56,4_1405,1405,PINE_PLOT36,Filipa,06/10/2008,,4,1405,Germany,Saxony,4,0.49,NA,PINE,Pine only,0,0,Continental,51.24833333,13.81916667
+57,5_1,SV07B,BEECH_PLOT7,Sietse,08/04/2014,ABR1,5,1,Italy,Collelongo,31,0.5,NA,BEECH,Beech only,0,0,Alpine,41.8475,13.58972222
+58,5_3,SV09B,BEECH_PLOT9,Sietse,11/04/2014,CAL1,5,3,Italy,Giffone,20,0.5,NA,BEECH,Beech only,0,0,Mediterranean,38.42722222,16.17972222
+59,5_4,SV08B,BEECH_PLOT8,Sietse,10/04/2014,CAM1,5,4,Italy,Corleto Monforte,24,0.5,NA,BEECH,Beech only,0,0,Mediterranean,40.43277778,15.43611111
+60,5_10,SV15S,SPRUCE_PLOT15,Sietse,24/06/2014,LOM1,5,10,Italy,Lombardy,24,0.5,NA,SPRUCE,Spruce only,0,0,Alpine,46.23777778,9.554444444
+61,5_12,SV30B,BEECH_PLOT30,Sietse,12/05/2015,PIE1,5,12,Italy,,23,0.5,NA,BEECH,a few mature Birch trees,1,0,Alpine,45.68194444,8.067222222
+62,5_13,SV06B,BEECH_PLOT6,Sietse,09/04/2014,PUG1,5,13,Italy,Vico del Gargano,15,0.5,NA,BEECH,Beech only,0,0,Mediterranean,41.81944444,15.98333333
+63,5_20,SV32B,BEECH_PLOT32,Sietse,15/05/2015,Pian Cansiglio,5,20,Italy,,23,0.5,NA,BEECH,no,0,0,Alpine,46.05722222,12.03222222
+64,5_24,SV18B,BEECH_PLOT18,Sietse,25/06/2014,LOM3,5,24,Italy,Lombardy,20,0.5,NA,BEECH,no,0,0,Alpine,45.91138889,9.504722222
+65,6_111,SV26B,BEECH_PLOT26,Sietse,02/12/2014,Rogate,6,111,England,West Sussex,3,0.25,NA,BEECH,"some Oak scattered around, there is no Beech in the woods surrounding the plot (Spruce, Pine, Oak and a fair amount of Eucalyptus')",1,1,Atlantic,51.01666667,-0.866944444
+66,6_512,512,OAK_PLOT19,Laura,10/03/2011,Alice Holt,6,512,England,,2,0.2916,NA,OAK,FE,1,1,Atlantic,51.115,-0.863055556
+67,6_516,516,OAK_PLOT20,Laura,23/03/2011,Savernake,6,516,England,,3,0.3222,NA,OAK,CA,1,1,Atlantic,51.59888889,-1.918888889
+68,6_517,517,OAK_PLOT21,Laura,06/03/2011,Grizedale,6,517,England,,3,0.2954,NA,OAK,"LS, FS, BS",1,1,Atlantic,54.315,-3.028055556
+69,6_715,715,PINE_PLOT39,Filipa,10/10/2006,Thetford,6,715,England,,1,0.303,NA,PINE,no according to Martin,0,0,Atlantic,52.43388889,0.871944444
+70,6_716,716,PINE_PLOT40,Filipa,23/10/2006,Sherwood,6,716,England,,6,0.3081,NA,PINE,no according to Martin,0,0,Atlantic,53.415,-1.756111111
+71,6_717,717,PINE_PLOT41,Filipa,02/11/2006,Rannoch,6,717,Scotland,Rannoch,10,0.3052,NA,PINE,no according to Martin,0,0,Atlantic,56.65194444,-4.286111111
+72,6_718,SV01P,PINE_PLOT1,Sietse,11/09/2013,Rogate,6,718,England,West Sussex,3,0.25,NA,PINE,no,1,1,Atlantic,51.01944444,-0.866944444
+73,8_34,SV11B,BEECH_PLOT11,Sietse,14/05/2014,Stenholt,8,34,Denmark,,1,0.27,41 - 60,BEECH,no,0,0,Continental,55.95722222,12.35472222
+74,11_5,SV17P,PINE_PLOT17,Sietse,01/07/2015,Segovia,11,5,Spain,,33,0.25,NA,PINE,no,0,0,Mediterranean,40.87361111,-3.971388889
+75,11_30,SV18P,PINE_PLOT18,Sietse,02/07/2015,Soria,11,30,Spain,,22,0.25,NA,PINE,no,0,0,Mediterranean,41.86861111,-2.884166667
+76,11_33,SP01,OAK_PLOT1,Laura,12/10/2010,Palencia,11,33,Spain,,23,0.25,NA,OAK,FS,1,1,Atlantic,42.86638889,-4.5575
+77,11_115,SV19B,BEECH_PLOT19,Sietse,16/08/2014,Buguete (115Fs),11,115,Spain,Navara,19,0.25,NA,BEECH,no,0,0,Alpine,42.99972222,-1.348055556
+78,13_1301,SV10P,PINE_PLOT10,Sietse,26/09/2014,1301 Sostared,13,1301,Sweden,,2,0.28,NA,PINE,Norway Spruce with some Birch,1,1,Boreal,57.515,12.2475
+79,13_1403,SV20S,SPRUCE_PLOT20,Sietse,24/09/2014,1403 Hensbacka,13,1403,Sweden,,3,0.28,NA,SPRUCE,some smaller understory tree spp,1,1,Boreal,58.4375,11.73833333
+80,13_6001,SV13B,BEECH_PLOT13,Sietse,16/05/2014,Komperskulla,13,6001,Sweden,,3,0.28,NA,BEECH,no,0,0,Continental,56.29527778,14.65277778
+81,13_6301,SV12B,BEECH_PLOT12,Sietse,15/05/2014,Djupe???sen,13,6301,Sweden,,2,0.28,NA,BEECH,no,0,0,Continental,57.07722222,12.55027778
+82,13_6302,SV10S,SPRUCE_PLOT10,Sietse,15/05/2014,Borgared,13,6302,Sweden,,2,0.28,NA,SPRUCE,,0,0,Continental,56.94638889,12.72055556
+83,13_6401,SV08P,PINE_PLOT8,Sietse,25/09/2014,6401 Aboland,13,6401,Sweden,,3,0.28,NA,PINE,Norway Spruce with some Birch,1,1,Boreal,58.53916667,11.72638889
+84,13_6503,SV09P,PINE_PLOT9,Sietse,25/09/2014,6503 Humlered,13,6503,Sweden,,7,0.27,NA,PINE,Norway Spruce with some Birch,1,1,Boreal,57.77472222,13.74722222
+85,14_2,2,OAK_PLOT2,Laura,13/10/2011,,14,2,Austria,,6,0.25,81 - 100,OAK,"QC, LS",1,1,Continental,47.48888889,16.56305556
+86,14_11,SV16S,SPRUCE_PLOT16,Sietse,09/09/2014,Mondsee,14,11,Austria,,18,0.25,> 120,SPRUCE,a few Birch trees and some thin stems of I guess Ash,1,1,Alpine,47.88083333,13.35166667
+87,14_16,SV17S,SPRUCE_PLOT17,Sietse,10/09/2014,Murau,14,16,Austria,,31,0.25,101 - 120,SPRUCE,a few Larch trees,1,0,Alpine,47.06194444,14.11
+88,14_17,SV18S,SPRUCE_PLOT18,Sietse,10/09/2014,Jochberg,14,17,Austria,,21,0.25,61 - 80,SPRUCE,no,0,0,Alpine,47.3325,12.40527778
+89,15_2,SV25P,PINE_PLOT25,Sietse,12/08/2015,Pallasj???rvi,15,2,Finland,,7,0.27,81 - 100,PINE,"some Spruce amd Birch, with Juniper and young Spruce and Pine in the understorey",1,1,Boreal,67.95027778,24.05722222
+90,15_3,SV31S,SPRUCE_PLOT31,Sietse,12/08/2015,Pallasj???rvi,15,3,Finland,,6,0.27,> 120,SPRUCE,one Birch tree,1,0,Boreal,67.99944444,24.23611111
+91,15_5,SV30S,SPRUCE_PLOT30,Sietse,11/08/2015,Kivalo,15,5,Finland,,6,0.27,61 - 80,SPRUCE,only a few Pine and one Birch tree,1,0,Boreal,66.3325,26.64555556
+92,15_6,SV24P,PINE_PLOT24,Sietse,11/08/2015,Kivalo,15,6,Finland,,3,0.27,41 - 60,PINE,no,0,0,Boreal,66.36305556,26.73361111
+93,15_10,SV23P,PINE_PLOT23,Sietse,10/08/2015,Juupajoki,15,10,Finland,,4,0.27,61 - 80,PINE,"odd Birch tree, with Juniper and young Spruce and Pine in the understorey",1,1,Boreal,61.86666667,24.2
+94,15_12,SV34S,SPRUCE_PLOT34,Sietse,18/08/2015,Tammela,15,12,Finland,,3,0.27,41 - 60,SPRUCE,quite a few Birch and Pine trees,1,1,Boreal,60.63333333,23.8
+95,15_13,SV28P,PINE_PLOT28,Sietse,18/08/2015,Tammela,15,13,Finland,,3,0.27,41 - 60,PINE,"some  Birch, with young Spruce trees in the understorey",1,1,Boreal,60.6,23.83333333
+96,15_16,SV27P,PINE_PLOT27,Sietse,15/08/2015,Punkaharju,15,16,Finland,,2,0.27,61 - 80,PINE,some Populus tremula and Birch,1,1,Boreal,61.77333333,29.33694444
+97,15_17,SV32S,SPRUCE_PLOT32,Sietse,15/08/2015,Punkaharju,15,17,Finland,,2,0.27,61 - 80,SPRUCE,quite some Birch trees,1,1,Boreal,61.81333333,29.3225
+98,15_19,SV33S,SPRUCE_PLOT33,Sietse,17/08/2015,Evo,15,19,Finland,,4,0.3812,> 120,SPRUCE,quite a few Birch and Pine trees ,1,1,Boreal,61.2425,25.06861111
+99,15_20,SV26P,PINE_PLOT26,Sietse,14/08/2015,Lieksa,15,20,Finland,,4,0.5814,> 120,PINE,some Populus tremula and Birch,1,1,Boreal,63.15916667,30.70805556
+100,50_2,SV12S,SPRUCE_PLOT12,Sietse,23/06/2014,Beatenburg,50,2,Switzerland,Bern,31,2,NA,SPRUCE,no,0,0,Alpine,46.71638889,7.763333333
+101,50_3,SV05B,BEECH_PLOT5,Sietse,02/04/2014,Bettlachstock,50,3,Switzerland,Jura,24,1.27,NA,BEECH,quite a few other trees mixed in,1,1,Continental,47.22638889,7.4175
+102,50_5,SV13S,SPRUCE_PLOT13,Sietse,26/06/2014,Chironico,50,5,Switzerland,Tessin,28,2,NA,SPRUCE,no,0,0,Alpine,46.44805556,8.813333333
+103,50_9,SV07P,PINE_PLOT7,Sietse,03/04/2014,Lens,50,9,Switzerland,Valais,22,2,NA,PINE,no,0,0,Alpine,46.26972222,7.436944444
+105,50_15,SV08S,SPRUCE_PLOT8,Sietse,04/04/2014,Vordemwald,50,15,Switzerland,Aargau,10,2,NA,SPRUCE,"many other tree spp. present, mainly Silver Fir",1,1,Continental,47.27555556,7.887777778
+106,50_18,SV14S,SPRUCE_PLOT14,Sietse,01/06/2014,Davos,50,18,Switzerland,Graubunden,33,1.05,NA,SPRUCE,no,0,0,Alpine,46.81666667,9.856111111
+104,50_19,SV17B,BEECH_PLOT17,Sietse,27/06/2014,Wettingen,50,13,Switzerland,Arrau,10,2,NA,BEECH,some Oaks,1,1,Continental,47.47833333,8.364444444
+107,51_1,SV34B,BEECH_PLOT34,Sietse,10/06/2015,Gy???ngy???s,51,1,Hungary,,12,0.25,81 - 100,BEECH,no,0,0,Pannonian,47.89194444,19.95861111
+108,51_3,M03,OAK_PLOT16,Laura,12/10/2011,,51,3,Hungary,,14,0.25,61 - 80,OAK,"FS, QC, CB",1,1,Pannonian,47.86277778,19.96694444
+109,51_16,M16,OAK_PLOT15,Laura,15/10/2011,,51,16,Hungary,,6,0.28,61 - 80,OAK,"PS, CB",1,1,Pannonian,46.82222222,16.40416667
+110,51_20,SV28S,SPRUCE_PLOT28,Sietse,10/06/2015,Gy???ngy???s,51,20,Hungary,,12,0.25,41 - 60,SPRUCE,no,0,0,Pannonian,47.89305556,19.9525
+111,52_5,5,OAK_PLOT18,Laura,13/04/2011,,52,5,Romania,,2,0.25,NA,OAK,"CB, AC, TT",1,1,Continental,44.50944444,26.17722222
+112,52_13,13,OAK_PLOT17,Laura,14/04/2011,,52,13,Romania,,10,0.25,NA,OAK,"FS, CB",1,1,Continental,45.02972222,24.9925
+113,53_116,SV33B,BEECH_PLOT33,Sietse,27/05/2015,Wyspowo,53,116,Poland,Gdansk,4,0.84,NA,BEECH,"a few Pine trees, Oak and Birch",1,1,Continental,54.55916667,18.27055556
+114,53_202,SV24S,SPRUCE_PLOT24,Sietse,28/05/2015,Suwalki,53,202,Poland,Bialystok,5,0.75,NA,SPRUCE,"quite a lot of Hazel, Beech mixed in",1,1,Continental,54.28333333,23.00555556
+115,53_206,SV14P,PINE_PLOT14,Sietse,27/05/2015,Strzalowo,53,206,Poland,Olsztyn,3,0.56,NA,PINE,"quite a lot of Hazel, Beech mixed in",1,1,Continental,53.66694444,21.43361111
+116,53_212,SV15P,PINE_PLOT15,Sietse,28/05/2015,Bialowiezca,53,212,Poland,Bialystok,3,0.9975,NA,PINE,no,0,0,Continental,52.675,23.72222222
+117,53_405,SV16P,PINE_PLOT16,Sietse,29/05/2015,Warzcawa,53,405,Poland,Warszawa,3,0.42,NA,PINE,quite a lot of Oak mixed in,1,1,Continental,52.01666667,21.1
+118,53_513,SV12P,PINE_PLOT12,Sietse,16/03/2015,Zawadzkie,53,513,Poland,Katowice,5,0.3563,NA,PINE,some young Birch trees,1,1,Continental,50.58333333,18.45833333
+119,53_804,SV28B,BEECH_PLOT28,Sietse,17/03/2015,Bircza,53,804,Poland,Krosno,9,1.05,NA,BEECH,no,0,0,Continental,49.65833333,22.49166667
+120,53_816,SV23S,SPRUCE_PLOT23,Sietse,17/03/2015,Piwniznia Andrzekojow,53,816,Poland,Krakow,11,0.6,NA,SPRUCE,some understory Beech trees,1,1,Alpine,49.34694444,20.83472222
+121,54_203,SV27S,SPRUCE_PLOT27,Sietse,09/06/2015,Lomnista dolina,54,203,Slovakia,,25,0.25,41 - 60,SPRUCE,the west side bordering a Beech forest,0,0,Alpine,48.92527778,19.4875
+122,58_2015,SV14B,BEECH_PLOT14,Sietse,03/06/2014,B151/Doln??? M???se?ky,58,2015,Czech Republic,Krkono_e,19,0.25,> 120,BEECH,mainly beech,1,0,Continental,50.735,15.54
+123,58_2061,SV04P,PINE_PLOT4,Sietse,20/11/2013,Q061/Bene_ovice,58,2061,Czech Republic,Z???pado?esk??? pahorkatina,11,0.25,81 - 100,PINE,a few Birch trees,1,0,Continental,49.74194444,12.86138889
+124,58_2103,SV15B,BEECH_PLOT15,Sietse,04/06/2014,Q103/V_ete?,58,2103,Czech Republic,P???seck??? hory,13,0.25,101 - 120,BEECH,no,0,0,Continental,49.23,14.3
+125,58_2161,SV11S,SPRUCE_PLOT11,Sietse,02/06/2014,I140/_elivka,58,2161,Czech Republic,St?edo?esk??? pahorkatina,9,0.25,101 - 120,SPRUCE,Spruce only,0,0,Continental,49.67527778,15.22972222
+126,58_2401,SV25S,SPRUCE_PLOT25,Sietse,08/06/2015,Klepacka,58,2401,Czech Republic,,13,0.25,81 - 100,SPRUCE,"Beech, with Spruce dominant in both size and number",1,1,Continental,49.45361111,18.39777778
+127,59_1,SV32P,PINE_PLOT32,Sietse,09/09/2015,Sagadi,59,1,Estonia,,2,0.25,41 - 60,PINE,some understorey Spruce and Birch,1,1,Boreal,59.56166667,26.04611111
+128,59_2,SV31P,PINE_PLOT31,Sietse,09/09/2015,Vihula,59,2,Estonia,,1,0.25,41 - 60,PINE,quite a few patches of Spruce and Birch,1,1,Boreal,59.57833333,26.1325
+129,59_3,SV29P,PINE_PLOT29,Sietse,08/09/2015,Pikasilla,59,3,Estonia,,2,0.25,41 - 60,PINE,some understorey Spruce and Birch,1,1,Boreal,58.05805556,26.11472222
+130,59_7,SV30P,PINE_PLOT30,Sietse,08/09/2015,Karula,59,7,Estonia,,2,0.25,61 - 80,PINE,some understorey Spruce and Birch,1,1,Boreal,57.70055556,26.5175
+131,59_8,SV36S,SPRUCE_PLOT36,Sietse,09/09/2015,Karepa,59,8,Estonia,,1,0.25,21 - 40,SPRUCE,quite a few Birch and Pine trees,1,1,Boreal,59.52888889,26.40222222
+132,59_9,SV35S,SPRUCE_PLOT35,Sietse,08/09/2015,T???ravere,59,9,Estonia,,2,0.25,41 - 60,SPRUCE,quite a few Birch and Pine trees,1,1,Boreal,58.27361111,26.45888889
+133,60_2,SV31B,BEECH_PLOT31,Sietse,13/05/2015,Fondek,60,2,Slovenia,,17,0.25,NA,BEECH,no,0,0,Continental,45.99861111,13.73777778
+134,60_4,SV13P,PINE_PLOT13,Sietse,14/05/2015,Bdro,60,4,Slovenia,,10,0.25,NA,PINE,quite a few young Spruce trees and a few almost mature oaks and a sweet chestnut,1,1,Continental,46.28722222,14.40472222
+135,4_N1,SV02S,SPRUCE_PLOT2,Sietse,22/10/2013,101 Idar-Oberstein,4,NA,Germany ,,NA,NA,NA,SPRUCE,no,0,0,Continental,49.74366,7.19609
+136,4_N2,SV03B,BEECH_PLOT3,Sietse,21/11/2013,Flossenburg,4,NA,Germany,,NA,NA,NA,BEECH,quite a few Spruce,1,1,Continental,49.76221,12.40256
+137,54_212,SV26S,SPRUCE_PLOT26,Sietse,09/06/2015,Zelezno,54,212,Slovakia,,NA,NA,NA,SPRUCE,two Beech trees both on the edge of the plot,1,0,Alpine,48.9536,19.38852

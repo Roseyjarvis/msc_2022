@@ -1,6 +1,6 @@
 # data repo for collaborative working
 
-This is a github repo so we can work collaboratively and so you guys can learn (if you don't already know) version control which is really important for good science (in my opinion). I will expand on this later but it's late as I'm writing this.
+This is a github repo so we can work collaboratively and so you guys can learn (if you don't already know) version control which is really useful for science (in my opinion). I will expand on this later but it's late as I'm writing this.
 
 Feel free to fork the repo, clone it locally if you like, or load files directly into R via: 
 ```

@@ -2,7 +2,7 @@
 
 This is a github repo so we can work collaboratively and so you guys can learn (if you don't already know) version control which is really useful for science (in my opinion). I will expand on this later but it's late as I'm writing this.
 
-Feel free to fork the repo, clone it locally if you like, or load files directly into R via: 
+Feel free to fork the repo and/or clone it locally if you like (see here https://docs.github.com/en/get-started/quickstart/fork-a-repo) - then you can manage the files independently. You can also, from this repo or your own fork, load files directly into R via: 
 ```
 install.packages(RCurl)
 library(RCurl)

@@ -6,7 +6,7 @@ Feel free to fork the repo and/or clone it locally if you like (see here https:/
 ```
 install.packages('RCurl')
 library(RCurl)
-x <- getURL("https://raw.github.com/blex-max/msc_2022/main/OTU_table.csv") # or environment.csv etc.
+x <- getURL("https://raw.githubusercontent.com/blex-max/msc_2022/main/OTU_table.csv") # or environment.csv etc.
 y <- read.csv(text = x)
 ```
 

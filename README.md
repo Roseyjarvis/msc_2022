@@ -4,7 +4,7 @@ This is a github repo so we can work collaboratively and so you guys can learn (
 
 Feel free to fork the repo and/or clone it locally if you like (see here https://docs.github.com/en/get-started/quickstart/fork-a-repo) - then you can manage the files independently. You can also, from this repo or your own fork, load files directly into R via: 
 ```
-install.packages(RCurl)
+install.packages('RCurl')
 library(RCurl)
 x <- getURL("https://raw.github.com/blex-max/msc_2022/main/OTU_table.csv") # or environment.csv etc.
 y <- read.csv(text = x)
